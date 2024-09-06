@@ -1,0 +1,1 @@
+# swagger-enum-bug
